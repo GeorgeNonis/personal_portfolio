@@ -1,13 +1,13 @@
-### <h1>My personal Portfolio :exclamation:</h1>
+### <h1>:exclamation: My personal Portfolio :exclamation:</h1>
 
 ### Target of my website
 
 <p>
         <h3>My portfolio:notebook_with_decorative_cover: is not only just to use it as a live CV but also to showcase my skills as a developer</h3>
-        <h3>It was defenitely a challenged as I had to learn and use <img alt="Javascript" src="./imgs/threejs.svg" width="35"/></h3>
+        <h3>It was defenitely a challenged:muscle: as I had to learn and use <img alt="Javascript" src="./imgs/threejs.svg" width="35"/></h3>
 </p>
 
-### Main technologies used for this project
+### Main technologies used for this project :zap:
 
 <p>
   <img alt="Javascript" src="./imgs/javascript.gif" width="50"/>
