@@ -10,6 +10,7 @@
 ### Main technologies used for this project :zap:
 
 <p>
+  <img alt="Vite" src="./imgs/vite.svg" width="50"/>
   <img alt="Javascript" src="./imgs/javascript.gif" width="50"/>
   <img alt="React" src="./imgs/react.png" width="50"/>
   <img alt="ThreeJs" src="./imgs/threejs.svg" width="50"/>
