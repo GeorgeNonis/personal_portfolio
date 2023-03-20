@@ -2,8 +2,10 @@
 
 ### Target of my website
 
-    <h3>My portfolio is not only just to use it as a live CV but also to showcase my skills as a developer</h3>
-    <h3>It was defenitely a challenged as I had to learn and use <img alt="Javascript" src="./imgs/threejs.svg" width="35"/></h3>
+<p>
+        <h3>My portfolio is not only just to use it as a live CV but also to showcase my skills as a developer</h3>
+        <h3>It was defenitely a challenged as I had to learn and use <img alt="Javascript" src="./imgs/threejs.svg" width="35"/></h3>
+</p>
 
 ### Main technologies used for this project
 
@@ -22,7 +24,7 @@
 
 ### How to install node_modules
 
-    **npm i  --legacy-peer-deps**
+    npm i  --legacy-peer-deps
 
 ### Comments in the project
 
