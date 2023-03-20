@@ -16,7 +16,6 @@
   <img alt="npm" src="./imgs/npm.png" width="50"/>
   <img alt="github actions" src="./imgs/github.png" width="50"/>
   <img alt="git" src="./imgs/git.png" width="50"/>
-  />
   <img alt="Css" src="./imgs/css3.png" width="50"/>
   <img alt="tailwind" src="./imgs/tailwindcss.png" width="50"/>
   <img alt="html5" src="./imgs/html5.png" width="50"/>
@@ -31,3 +30,5 @@
 ### Comments in the project
 
 <h3>Tried my best to add as many comments as I could for further understand:fire:</h3>
+    <h3>Any further/additional comments or tips are very welcome,</h3>
+    <h3>as my target is to become better by every project!:fire:</h3>
