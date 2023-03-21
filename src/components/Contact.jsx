@@ -20,8 +20,8 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
-        {links.map((l) => {
-          return <Link obj={l} />;
+        {links.map((l, i) => {
+          return <Link obj={l} key={i} />;
         })}
       </motion.div>
 

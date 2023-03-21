@@ -152,37 +152,10 @@ const experiences = [
     ],
   },
 ];
-
-const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
-
 const projects = [
   {
     name: "Note Manager",
+    project_link: "https://note-manager.nextjs-shop.com/",
     description:
       "A web app which helps you manage your notes with many features e.g re-ordering your notes - pin & unpin them as well setting labels and much more.",
     tags: [
@@ -216,6 +189,7 @@ const projects = [
   },
   {
     name: "E-Shop",
+    project_link: "https://e-shop.nextjs-shop.com/",
     description:
       "Simple minimalistic e-shop with a very easy navigation structure. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS",
     tags: [
@@ -241,4 +215,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, projects };
