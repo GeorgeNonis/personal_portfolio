@@ -47,13 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="sm:grid grid-cols-2 items-center block mt-4 mr-0 text-secondary text-[17px] leading-[30px] "
       >
-        I'm a skilled software developer with experience in TypeScript and
+        I'm a passionated software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js, and now
-        moving to Three.js and Next.js. I'm a quick learner as In a short amount
-        of time I have added in my toolbox Redux Scss Tailwind Node.js Mongodb.
-        I have collaborate closely with clients to create efficient, scalable,
-        and user-friendly solutions that solve real-world problems. Let's work
-        together to bring your ideas to life!
+        moving to Three.js and Next.js. As an individual Im motivated to have
+        knowledge of how thing's work and expand my knowledge in Frontend and
+        Backend. I have collaborate closely with clients to create efficient,
+        scalable, and user-friendly solutions that solve real-world problems. My
+        main target is to give the best of myself and provide top quality code.
         <div className="nonisImage"></div>
       </motion.p>
 

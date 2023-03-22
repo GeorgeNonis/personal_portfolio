@@ -155,7 +155,7 @@ const experiences = [
 const projects = [
   {
     name: "Note Manager",
-    project_link: "https://note-manager.nextjs-shop.com/",
+    project_link: "https://note-manager.com/",
     description:
       "A web app which helps you manage your notes with many features e.g re-ordering your notes - pin & unpin them as well setting labels and much more.",
     tags: [
@@ -189,7 +189,7 @@ const projects = [
   },
   {
     name: "E-Shop",
-    project_link: "https://e-shop.nextjs-shop.com/",
+    project_link: "https://nonis-eshop.com/",
     description:
       "Simple minimalistic e-shop with a very easy navigation structure. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS",
     tags: [
