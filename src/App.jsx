@@ -21,7 +21,9 @@ const App = () => {
         </div>
         <About />
         <Experience />
-        <Tech />
+        <div className="max-sm:hidden">
+          <Tech />
+        </div>
         <Works />
         <div className="relative z-0">
           <Contact />
