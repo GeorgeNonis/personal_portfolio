@@ -23,6 +23,7 @@ import {
   linkedin,
   email,
   location,
+  jest,
 } from "../assets";
 
 export const navLinks = [
@@ -191,7 +192,7 @@ const projects = [
     name: "E-Shop",
     project_link: "https://nonis-eshop.com/",
     description:
-      "Simple minimalistic e-shop with a very easy navigation structure. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS",
+      "Simple minimalistic e-shop with a very easy navigation structure.Using https://fakestoreapi.com/. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS.Site is not mobile friendly yet!",
     tags: [
       {
         name: "typescript",

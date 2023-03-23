@@ -23,6 +23,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import sass from "./tech/sass.png";
+import jest from "./tech/jest.png";
 
 import apk from "./company/apk.png";
 import ninaglobal from "./company/nina-global.png";
@@ -59,4 +60,5 @@ export {
   ninaglobal,
   notemanager,
   eshop,
+  jest,
 };
