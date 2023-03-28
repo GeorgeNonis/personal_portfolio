@@ -28,7 +28,7 @@ const ProjectCard = ({
         className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full "
       >
         <a href={project_link} target={"_blank"}>
-          <div className="relative w-full h-[230px] cursor-grab">
+          <div className="relative w-full h-[230px] cursor-pointer">
             <img
               src={image}
               alt="project_image"
