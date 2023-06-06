@@ -30,6 +30,7 @@ import ninaglobal from "./company/nina-global.png";
 
 import notemanager from "./notemanager.png";
 import eshop from "./eshop.png";
+import colorpicker from "./colorpicker.png";
 
 export {
   email,
@@ -60,5 +61,6 @@ export {
   ninaglobal,
   notemanager,
   eshop,
+  colorpicker,
   jest,
 };

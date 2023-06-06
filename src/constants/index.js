@@ -24,6 +24,7 @@ import {
   email,
   location,
   jest,
+  colorpicker,
 } from "../assets";
 
 export const navLinks = [
@@ -158,7 +159,7 @@ const projects = [
     name: "Note Manager",
     project_link: "https://note-manager.com/",
     description:
-      "A web app which helps you manage your notes with many features e.g re-ordering your notes - pin & unpin them as well setting labels and much more.",
+      "A web app which helps you manage your notes with many features e.g re-ordering your notes - pin & unpin them . Account Settings and its also mobile friendly.",
     tags: [
       {
         name: "typescript",
@@ -192,7 +193,7 @@ const projects = [
     name: "E-Shop",
     project_link: "https://nonis-eshop.com/",
     description:
-      "Simple minimalistic e-shop with a very easy navigation structure.Using https://fakestoreapi.com/. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS.Site is not mobile friendly yet!",
+      "Simple minimalistic e-shop with a very easy navigation structure.Using Midjourney's AI tools to generate images. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS.Website mobile friendly!",
     tags: [
       {
         name: "typescript",
@@ -212,7 +213,38 @@ const projects = [
       },
     ],
     image: eshop,
-    source_code_link: "https://github.com/GeorgeNonis/Shopify",
+    source_code_link: "https://github.com/GeorgeNonis/jewelry-e-commerce",
+  },
+  {
+    name: "Color Picker - Chrome Extension",
+    project_link:
+      "https://chrome.google.com/webstore/detail/color-picker-nonis/mpcmgnbiaijedofjkmphnalpoonggcbl",
+    description:
+      "Tool for Developers and UI/UX designers. Generator your color. Copy it. Add it to your palette and have it available for whenever you want!",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "git",
+        color: "green-text-gradient",
+      },
+      {
+        name: "html",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: colorpicker,
+    source_code_link: "https://github.com/GeorgeNonis/color-picker-extension",
   },
 ];
 
