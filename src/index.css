@@ -141,8 +141,6 @@
 .nonisImage {
   animation: morph 8s ease-in-out infinite;
   background-image: url(/src/assets/profile_image.jpg);
-  /* background-position: 50%;
-  background-repeat: no-repeat; */
   margin-top: 1rem;
   margin-inline: auto;
   background-size: cover;
@@ -152,6 +150,14 @@
   position: relative;
   transition: all 1s ease-in-out;
   width: 20rem;
+}
+
+.youtubevideo {
+  /* width: min(80%, 600px); */
+  /* height: 20rem; */
+  width: clamp(80%, 20rem, 90%);
+  height: clamp(80%, 20rem, 100%);
+  margin: 2rem auto;
 }
 
 @keyframes mulShdSpin {

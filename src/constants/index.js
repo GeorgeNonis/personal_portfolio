@@ -25,6 +25,7 @@ import {
   location,
   jest,
   colorpicker,
+  pwdgenerator,
 } from "../assets";
 
 export const navLinks = [
@@ -133,10 +134,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "Dec 2019 - Aug 2020",
     points: [
-      `Checking computer hardware (HDD, mouses, keyboards etc.) to ensure functionality.`,
+      `Checking computer hardware (HDD, mice, keyboards, etc.) to ensure functionality.`,
       `Installing and configuring appropriate software and functions according to specifications.`,
-      `Organize and schedule upgrades and maintenance without deterring others from completing their work.`,
-      `Perform troubleshooting to diagnose and resolve problems (repair or replace parts, debugging etc.)`,
+      `Organizing and scheduling upgrades and maintenance without impeding others' work.`,
+      `Performing troubleshooting to diagnose and resolve problems (repair or replace parts, debugging, etc.).`,
     ],
   },
   {
@@ -146,11 +147,16 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Sep 2020 - Sep 2021",
     points: [
-      "Developed from scratch the Frontend of the application according to Figma mockup's",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-      "Building reusable code for future use.",
-      "Stay up-to-date on emerging technologies",
+      "Developed the frontend of an application from scratch based on Figma mockups.",
+      "Implemented responsive design and ensured cross-browser compatibility.",
+      "Participated in code reviews and provided constructive feedback to other developers.",
+      "Built reusable code for future use.",
+      "Stayed up-to-date on emerging technologies.",
+      // "Developed from scratch the Frontend of the application according to Figma mockup's",
+      // "Implementing responsive design and ensuring cross-browser compatibility.",
+      // "Participating in code reviews and providing constructive feedback to other developers.",
+      // "Building reusable code for future use.",
+      // "Stay up-to-date on emerging technologies",
     ],
   },
 ];
@@ -159,7 +165,7 @@ const projects = [
     name: "Note Manager",
     project_link: "https://note-manager.com/",
     description:
-      "A web app which helps you manage your notes with many features e.g re-ordering your notes - pin & unpin them . Account Settings and its also mobile friendly.",
+      "Introducing a full-stack TypeScript web app designed for efficient note management. Enjoy a range of features including easy reordering, pinning and unpinning notes, as well as convenient account settings. Experience the seamless usability of our mobile-friendly interface, ensuring smooth note management on the go.",
     tags: [
       {
         name: "typescript",
@@ -193,7 +199,7 @@ const projects = [
     name: "E-Shop",
     project_link: "https://nonis-eshop.com/",
     description:
-      "Simple minimalistic e-shop with a very easy navigation structure.Using Midjourney's AI tools to generate images. UI/UX was developed by me. No Css librarys were used as I want to push my limit's on plain CSS.Website mobile friendly!",
+      "I created a sleek and minimalist e-shop with user-friendly navigation. To enhance visual appeal, I used Midjourney's AI tools for captivating images. The UI/UX design is my own creation, showcasing intuitive and engaging interfaces. I pushed the boundaries of plain CSS, avoiding CSS libraries for a unique website. It's fully optimized for mobile devices, ensuring a seamless experience across screen sizes.",
     tags: [
       {
         name: "typescript",
@@ -220,7 +226,7 @@ const projects = [
     project_link:
       "https://chrome.google.com/webstore/detail/color-picker-nonis/mpcmgnbiaijedofjkmphnalpoonggcbl",
     description:
-      "Tool for Developers and UI/UX designers. Generator your color. Copy it. Add it to your palette and have it available for whenever you want!",
+      "Color Picker - Nonis is a powerful tool designed specifically for developers and UI/UX designers. It provides an intuitive interface to generate colors, copy them, and seamlessly add them to your palette. With Color Picker - Nonis, you can effortlessly create harmonious color schemes and have them readily available for your design projects. Simplify your color workflow and elevate your design process with Color Picker - Nonis.",
     tags: [
       {
         name: "typescript",
@@ -245,6 +251,37 @@ const projects = [
     ],
     image: colorpicker,
     source_code_link: "https://github.com/GeorgeNonis/color-picker-extension",
+  },
+  {
+    name: "Password Generator - Chrome Extension",
+    project_link:
+      "https://chrome.google.com/webstore/detail/password-generator-nonis/ciplnefaommlkglhkbabmpkckccimajp",
+    description:
+      "Generate strong and secure passwords with Password Generator - Nonis. Customize password length and choose from options like uppercase letters, lowercase letters, numbers, and special characters. Includes a password strength indicator and history section for easy reference. Keep your accounts secure with ease!",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "git",
+        color: "green-text-gradient",
+      },
+      {
+        name: "html",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "css",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: pwdgenerator,
+    source_code_link: "https://github.com/GeorgeNonis/pwd-generator-extension",
   },
 ];
 
