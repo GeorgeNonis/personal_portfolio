@@ -49,12 +49,12 @@ const About = () => {
       >
         I'm a passionate software developer with experience in TypeScript and
         JavaScript, and expertise in frameworks like React, Node.js. Currently,
-        I'm expanding my knowledge in Three.js and Next.js. As an individual,
-        I'm motivated to understand how things work and continually expand my
-        knowledge in frontend and backend development. I have collaborated
-        closely with clients to create efficient, scalable, and user-friendly
-        solutions that solve real-world problems. My main goal is to give my
-        best and provide top-quality code.
+        I'm expanding my knowledge in Next.js. As an individual, I'm motivated
+        to understand how things work and continually expand my knowledge in
+        frontend and backend development. I have collaborated closely with
+        clients to create efficient, scalable, and user-friendly solutions that
+        solve real-world problems. My main goal is to give my best and provide
+        top-quality code.
         <div className="nonisImage"></div>
       </motion.p>
       <h2 className={styles.sectionHeadText}>Hobbies.</h2>
