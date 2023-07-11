@@ -24,6 +24,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import sass from "./tech/sass.png";
 import jest from "./tech/jest.png";
+import nextjs from "./tech/nextjs.png";
+import reactstitches from "./tech/stitches.svg";
 
 import apk from "./company/apk.png";
 import ninaglobal from "./company/nina-global.png";
@@ -32,6 +34,7 @@ import notemanager from "./notemanager.png";
 import eshop from "./eshop.png";
 import colorpicker from "./colorpicker.png";
 import pwdgenerator from "./pwdgenerator.jpg";
+import movieseeker from "./movieseeker.png";
 
 export {
   email,
@@ -65,4 +68,7 @@ export {
   colorpicker,
   pwdgenerator,
   jest,
+  movieseeker,
+  nextjs,
+  reactstitches,
 };

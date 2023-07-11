@@ -23,9 +23,11 @@ import {
   linkedin,
   email,
   location,
-  jest,
   colorpicker,
   pwdgenerator,
+  movieseeker,
+  nextjs,
+  reactstitches,
 } from "../assets";
 
 export const navLinks = [
@@ -72,14 +74,14 @@ export const links = [
   },
 ];
 const technologies = [
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
+  // {
+  //   name: "CSS 3",
+  //   icon: css,
+  // },
   {
     name: "JavaScript",
     icon: javascript,
@@ -89,12 +91,20 @@ const technologies = [
     icon: typescript,
   },
   {
+    name: "Next.js",
+    icon: nextjs,
+  },
+  {
     name: "React JS",
     icon: reactjs,
   },
   {
     name: "Redux Toolkit",
     icon: redux,
+  },
+  {
+    name: "React Stitches",
+    icon: reactstitches,
   },
   {
     name: "Tailwind CSS",
@@ -107,10 +117,6 @@ const technologies = [
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",
@@ -220,6 +226,36 @@ const projects = [
     ],
     image: eshop,
     source_code_link: "https://github.com/GeorgeNonis/jewelry-e-commerce",
+  },
+  {
+    name: "Nonis - Movie Seeker",
+    project_link: "https://georgenonis.github.io/nonis-movie-seeker/",
+    description:
+      "This project, Unraveling Noni's World, was undertaken to enhance my frontend development skills using Next.js, a popular React framework. The goal was to gain hands-on experience with Next.js and explore its features and capabilities.",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "next",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "react-stitches",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: movieseeker,
+    source_code_link: "https://github.com/GeorgeNonis/nonis-movie-seeker",
   },
   {
     name: "Color Picker - Chrome Extension",
