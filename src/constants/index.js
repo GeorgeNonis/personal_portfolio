@@ -28,6 +28,7 @@ import {
   movieseeker,
   nextjs,
   reactstitches,
+  raskrask,
 } from "../assets";
 
 export const navLinks = [
@@ -158,11 +159,24 @@ const experiences = [
       "Participated in code reviews and provided constructive feedback to other developers.",
       "Built reusable code for future use.",
       "Stayed up-to-date on emerging technologies.",
-      // "Developed from scratch the Frontend of the application according to Figma mockup's",
-      // "Implementing responsive design and ensuring cross-browser compatibility.",
-      // "Participating in code reviews and providing constructive feedback to other developers.",
-      // "Building reusable code for future use.",
-      // "Stay up-to-date on emerging technologies",
+    ],
+  },
+  {
+    title: "Frontend Developer - Intern",
+    company_name: "Raskrask",
+    icon: raskrask,
+    iconBg: "#E6DEDD",
+    date: "July 2023 - Present",
+    points: [
+      "Collaborated on all phases of development, from planning and prototyping to design, implementation, and maintenance, utilizing Typescript, React.js, Next.js, and Ionic.",
+      "Implemented and maintained responsive designs ensuring cross-browser compatibility.",
+      "Developed stories for the company's NPM package.",
+      "Kept abreast of emerging technologies.",
+      "Tested applications with Cypress and Jest.",
+      "Applied Object Oriented Programming (OOP) principles.",
+      "Utilized Atomic Design Principles in projects.",
+      "Demonstrated proficiency in web development with Reactjs and Nextjs.",
+      "Built a strong foundation in JavaScript programming.",
     ],
   },
 ];

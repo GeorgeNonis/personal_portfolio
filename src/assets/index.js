@@ -29,6 +29,7 @@ import reactstitches from "./tech/stitches.svg";
 
 import apk from "./company/apk.png";
 import ninaglobal from "./company/nina-global.png";
+import raskrask from "./company/raskrask.png";
 
 import notemanager from "./notemanager.png";
 import eshop from "./eshop.png";
@@ -71,4 +72,5 @@ export {
   movieseeker,
   nextjs,
   reactstitches,
+  raskrask,
 };
