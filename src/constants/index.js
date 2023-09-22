@@ -136,7 +136,7 @@ const technologies = [
 const experiences = [
   {
     title: "IT Technician",
-    company_name: "APK Garage",
+    company_name: "APK Garage - Nicosia,Cyprus",
     icon: apk,
     iconBg: "#383E56",
     date: "Dec 2019 - Aug 2020",
@@ -149,7 +149,7 @@ const experiences = [
   },
   {
     title: "React Developer",
-    company_name: "Nina Global",
+    company_name: "Nina Global - Nicosia,Cyprus",
     icon: ninaglobal,
     iconBg: "#E6DEDD",
     date: "Sep 2020 - Sep 2021",
@@ -162,11 +162,11 @@ const experiences = [
     ],
   },
   {
-    title: "Frontend Developer - Intern",
-    company_name: "Raskrask",
+    title: "Frontend Developer",
+    company_name: "Raskrask - Aarhus,Denmark",
     icon: raskrask,
     iconBg: "#E6DEDD",
-    date: "July 2023 - Present",
+    date: "July 2023 - September 2023",
     points: [
       "Collaborated on all phases of development, from planning and prototyping to design, implementation, and maintenance, utilizing Typescript, React.js, Next.js, and Ionic.",
       "Implemented and maintained responsive designs ensuring cross-browser compatibility.",
@@ -176,7 +176,6 @@ const experiences = [
       "Applied Object Oriented Programming (OOP) principles.",
       "Utilized Atomic Design Principles in projects.",
       "Demonstrated proficiency in web development with Reactjs and Nextjs.",
-      "Built a strong foundation in JavaScript programming.",
     ],
   },
 ];
