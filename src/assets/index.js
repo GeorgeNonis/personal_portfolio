@@ -36,6 +36,7 @@ import eshop from "./eshop.png";
 import colorpicker from "./colorpicker.png";
 import pwdgenerator from "./pwdgenerator.jpg";
 import movieseeker from "./movieseeker.png";
+import carRental from "./carRental.png";
 
 export {
   email,
@@ -73,4 +74,5 @@ export {
   nextjs,
   reactstitches,
   raskrask,
+  carRental,
 };

@@ -29,6 +29,7 @@ import {
   nextjs,
   reactstitches,
   raskrask,
+  carRental,
 } from "../assets";
 
 export const navLinks = [
@@ -213,6 +214,32 @@ const projects = [
     ],
     image: notemanager,
     source_code_link: "https://github.com/GeorgeNonis/Note-Manager",
+  },
+  {
+    name: "Car Rental",
+    project_link: "https://georgenonis.github.io/car-rental---frontend/",
+    description:
+      "Dive into the dynamic world of vehicle rental with our front-end project, Car Rental. This sleek web application is expertly crafted using the robust trio of React, TypeScript, and Tailwind CSS, ensuring a fully responsive and intuitive user experience. Car Rental showcases the prowess of modern web development with seamless navigation, interactive carousels, and a host of responsive features designed to provide users with a smooth and engaging interface on any device. Whether on desktop or mobile, Car Rental stands out with its elegant design and smooth transitions, all while harnessing the power of cutting-edge React packages to elevate the user journey.",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: carRental,
+    source_code_link: "https://github.com/GeorgeNonis/car-rental---frontend",
   },
   {
     name: "E-Shop",
